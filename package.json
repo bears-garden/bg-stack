@@ -1,6 +1,6 @@
 {
   "name": "bg-stack",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "classic stack implementation",
   "main": "lib/index.js",
   "scripts": {
