@@ -1,8 +1,8 @@
-# bg-stack
+# @bears-garden/stack
 classic stack implementation
 
 ## Usage
-`var Stack = require("bg-stack");`
+`var Stack = require("@bears-garden/stack");`
 `var stack = new Stack();`
 
 ### push
@@ -19,4 +19,3 @@ runtime O(1)
 ### empty
 runtime O(1)
 @returns true when the stack is empty
-

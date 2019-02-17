@@ -38,3 +38,9 @@ jspm_packages
 
 # Jetbrains
 .idea/
+
+# ignore the pack files for npm pack
+*.tgz
+
+#ignore the generated stack.js file
+lib/stack.js
